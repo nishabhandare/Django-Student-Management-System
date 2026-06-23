@@ -76,16 +76,16 @@ http://127.0.0.1:8000/
 
 
 ### All Students List Page
-![Students List](images/students_list.png)
+![Students List](students_list.png)
 
 ### Add Student Page
-![Add Student](images/add_student.png)
+![Add Student](add_student.png)
 
 ### Login / Search Page
-![Login Search](images/login_search.png)
+![Login Search](login_search.png)
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 
 👨‍💻 Author
